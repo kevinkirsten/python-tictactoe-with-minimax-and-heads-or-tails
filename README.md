@@ -11,7 +11,7 @@ Ministrada pelo Professor Dr. Flavio Soares Correa da Silva do IME-USP (Institut
 
 Acesse e teste este código em:
 
-[https://replit.com/@kevinkirsten/python-tictactoe-with-minimax#tictactoe-with-minimax-and-heads-or-tails.py](https://replit.com/@kevinkirsten/python-tictactoe-with-minimax-and-heads-or-tails#tictactoe-with-minimax-and-heads-or-tails.py)
+[https://replit.com/@kevinkirsten/python-tictactoe-with-minimax-and-heads-or-tails](https://replit.com/@kevinkirsten/python-tictactoe-with-minimax-and-heads-or-tails)
 
 ## Execute Localmente
 
